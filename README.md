@@ -1,2 +1,2 @@
-# Statistic-with-Python
+# Python
 None
